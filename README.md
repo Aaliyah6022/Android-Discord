@@ -1,6 +1,9 @@
 # Discord
 Building a better discord like app for android
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Aaliyah6022/Android-Discord/archive/master.zip" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Download Aaliyah6022/Android-Discord on GitHub">Download</a>
+
 
  Download as .zip Download as .tar.gz View on GitHub
 
