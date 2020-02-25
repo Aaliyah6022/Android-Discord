@@ -4,17 +4,9 @@
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Aaliyah6022/Android-Discord/archive/master.zip" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Download Aaliyah6022/Android-Discord on GitHub">Download</a>
 
-    This is a blockquote following a header he
+    Hi! Im LunaLynx, im a total begginer with android studio and im tring to buyil a mobile app like discord.
 
-    When something is important enough, you do it even if the odds are not in your favor.
-
-Header 3
-
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+    If ure interested to support me feel free to join my discord server https://discord.gg/kqAt3Ef or contact me on lynxluna12@gmail.com
 
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
