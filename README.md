@@ -4,9 +4,9 @@ Building a better discord like app for android, dowload the zip file here:
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Aaliyah6022/Android-Discord/archive/master.zip" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Download Aaliyah6022/Android-Discord on GitHub">Download</a>
 
-    Hi! Im LunaLynx, im a total begginer with android studio and im tring to buyil a mobile app like discord.
+    Hi! Im LunaLynx, and im tring to build a mobile app like discord.
 
-    If ure interested to support me feel free to join my discord server https://discord.gg/kqAt3Ef 
+    If ure interested to support me feel free to join my discord server: https://discord.gg/kqAt3Ef 
     or contact me on lynxluna12@gmail.com
 
 # Hardware requirements
