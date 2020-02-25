@@ -11,9 +11,9 @@ Building a better discord like app for android, dowload the zip file here:
 # Hardware requirements
 
     The absolute minimum requirements for the application are: 
-    :black_circle:200 MHz processor, 
-    :black_circle:32 MB of RAM, 
-    :black_circle:32 MB of storage.
+    💠 200 MHz processor, 
+    💠 32 MB of RAM, 
+    💠 32 MB of storage.
     I think Nougat requires at least 512MB of RAM.
     ARMv5 or higher is needed to run native code without modifications.
     This is the build version of the CPU architecture from ARM.
