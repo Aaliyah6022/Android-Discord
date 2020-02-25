@@ -1,25 +1,10 @@
-# Discord
-Building a better discord like app for android
+# Discord Like Android App
+%Building a better discord like app for android%
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Aaliyah6022/Android-Discord/archive/master.zip" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Download Aaliyah6022/Android-Discord on GitHub">Download</a>
 
-
- Download as .zip Download as .tar.gz View on GitHub
-
-Text can be bold, italic, strikethrough or keyword.
-
-Link to another page.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-Header 2
-
-    This is a blockquote following a header.
+    This is a blockquote following a header he
 
     When something is important enough, you do it even if the odds are not in your favor.
 
