@@ -18,47 +18,13 @@ Building a better discord like app for android, dowload the zip file here:
     ARMv5 or higher is needed to run native code without modifications.
     This is the build version of the CPU architecture from ARM.
 
-Header 5
+# Software requirements
 
-    This is an ordered list following a header.
-    This is an ordered list following a header.
-    This is an ordered list following a header.
+    App is still under developing
 
-Header 6
-head1 	head two 	three
-ok 	good swedish fish 	nice
-out of stock 	good and plenty 	nice
-ok 	good oreos 	hmm
-ok 	good zoute drop 	yumm
-There’s a horizontal rule below this.
-Here is an unordered list:
-
-    Item foo
-    Item bar
-    Item baz
-    Item zip
-
-And an ordered list:
+# More
 
     Item one
     Item two
     Item three
     Item four
-
-And a nested list:
-
-    level 1 item
-        level 2 item
-        level 2 item
-            level 3 item
-            level 3 item
-    level 1 item
-        level 2 item
-        level 2 item
-        level 2 item
-    level 1 item
-        level 2 item
-        level 2 item
-    level 1 item
-
-Small image
