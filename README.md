@@ -24,7 +24,6 @@ Building a better discord like app for android, dowload the zip file here:
 
 # More
 
-    Item one
-    Item two
-    Item three
-    Item four
+    Website: https://aaliyah6022.github.io/Android-Discord/
+    Youtube:
+    Facebook:
