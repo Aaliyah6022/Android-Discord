@@ -26,5 +26,5 @@ Building a better discord like app for android, dowload the zip file here:
 # More
 
     Website https://aaliyah6022.github.io/Android-Discord/
-    Youtube:
+    Youtube https://www.youtube.com/channel/UCn9tI5hqwgoEnRjwtb7pCzQ
     Facebook:
