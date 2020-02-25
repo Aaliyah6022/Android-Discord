@@ -6,7 +6,7 @@ Building a better discord like app for android, dowload the zip file here:
 
     Hi! Im LunaLynx, im a total begginer with android studio and im tring to buyil a mobile app like discord.
 
-    If ure interested to support me feel free to join my discord server https://discord.gg/kqAt3Ef or contact me on lynxluna12@gmail.com
+    If ure interested to support me feel free to join my [discord server](https://discord.gg/kqAt3Ef) or contact me on lynxluna12@gmail.com
 
 # Hardware requirements
 
@@ -24,6 +24,6 @@ Building a better discord like app for android, dowload the zip file here:
 
 # More
 
-    Website: https://aaliyah6022.github.io/Android-Discord/
+    [Website](https://aaliyah6022.github.io/Android-Discord/)
     Youtube:
     Facebook:
